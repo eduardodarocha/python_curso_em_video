@@ -7,5 +7,5 @@ Repositório com enunciados e resolução dos exercícios do Curso de Python do 
 - Curso de Python 3 - Mundo 2: Estruturas de Controle -> https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye
 - Curso de Python 3 - Mundo 3: Estruturas Compostas -> https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
 
-
-
+Para clonar o repositório:
+`git clone https://github.com/eduardodarocha/python_curso_em_video.git`
