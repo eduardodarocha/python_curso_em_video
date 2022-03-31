@@ -1,5 +1,5 @@
 # Python Curso em Video
-Repositório com enunciados e resolução dos exercícios do Curso de Python do Prof. Gustavo Guanabara - Curso em Video
+### Repositório com enunciados e resolução dos exercícios do Curso de Python do Prof. Gustavo Guanabara - Curso em Video
 
 ## Site: https://www.cursoemvideo.com/
 ## Youtube: 
